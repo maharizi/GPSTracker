@@ -1,0 +1,68 @@
+
+  "project_info": {
+    "project_number": "641758582047",
+    "project_id": "gpstracker-b7317",
+    "storage_bucket": "gpstracker-b7317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641758582047:android:9fa40dd2a622f1e8b30c2a",
+        "android_client_info": {
+          "package_name": "com.example.gpsenglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641758582047-jsae9rdhrec524k24kmcqm51lr2pghva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGu5xZgedL812LDZVGJNU4_0hl2P9cjvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641758582047-jsae9rdhrec524k24kmcqm51lr2pghva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641758582047:android:470a9d81d7bb990ab30c2a",
+        "android_client_info": {
+          "package_name": "com.example.gpstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641758582047-jsae9rdhrec524k24kmcqm51lr2pghva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGu5xZgedL812LDZVGJNU4_0hl2P9cjvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641758582047-jsae9rdhrec524k24kmcqm51lr2pghva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
